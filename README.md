@@ -1,7 +1,6 @@
 # Devin Bandara
 # 0xdevin
 
-- Creator of [Nirvana Labs](https://nirvanalabs.io/)
-- CEO @ [Aegis Studio](https://aegis.studio)
+- Founder & CTO @ [Nirvana Labs](https://nirvanalabs.io/)
 
 Twitter: @web3devin
