@@ -1,5 +1,5 @@
 # Devin Bandara
-# 0xdevin
+## 0xdevin
 
 - Founder & CTO @ [Nirvana Labs](https://nirvanalabs.io/)
 
